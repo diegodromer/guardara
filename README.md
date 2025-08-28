@@ -1,16 +1,21 @@
-# guardara
+# Guardara 🔐
 
-App para guardar dados com segurança e gerar senhas fortes, com opções de padrões de criptografia e acesso por conta (opcional) do usuário.
+App Flutter para **gerar senhas fortes** e (futuro) **cripto utilitários** (hash, HMAC, KDF, cifragem).
+Arquitetura **MVVM + Provider**. Foco em simplicidade, segurança e UX.
 
-## Getting Started
+![screenshot](docs/screenshot.png)
 
-This project is a starting point for a Flutter application.
+## Features
+- Gerador de senhas com personalização (tamanho, maiúsc., minúsc., números, símbolos)
+- MVVM com `ChangeNotifier` (Provider)
+- Próximos: medidor de força (zxcvbn), hash/HMAC/KDF, cofre com Hive
 
-A few resources to get you started if this is your first Flutter project:
+## Stack
+- Flutter (Material 3)
+- Provider (estado)
+- cryptography (hash/KDF/cifras)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Rodando
+```bash
+flutter pub get
+flutter run
