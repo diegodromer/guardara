@@ -1,7 +1,9 @@
 # **Guardara 🔐**
 
-Seu **cofre digital inteligente** para senhas e criptografia avançada.  
-Começamos com um **gerador de senhas fortes e ultra-personalizável**, mas estamos evoluindo para uma suíte completa de **utilitários de criptografia**, focada em **segurança, inovação e UX**.
+**Guardara** não é só mais um app de senhas — é o **seu cofre digital inteligente**.  
+Começamos com um **gerador de senhas ultra-personalizável**, mas estamos evoluindo para um **arsenal completo de utilitários de segurança e criptografia**.  
+Tudo com foco em **simplicidade, segurança e inovação**, porque ninguém merece complicação.
+
 
 ![screenshot](docs/v1-home.png)  
 > *Imagem da versão inicial — base sólida para tudo que vem por aí!*
