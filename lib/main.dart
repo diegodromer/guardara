@@ -6,6 +6,7 @@ import 'package:provider/provider.dart';
 void main() {
   runApp(const GuardaraApp());
 }
+
 class GuardaraApp extends StatelessWidget {
   const GuardaraApp({super.key});
 
@@ -23,6 +24,4 @@ class GuardaraApp extends StatelessWidget {
       ),
     );
   }
-
 }
-
