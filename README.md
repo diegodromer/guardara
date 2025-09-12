@@ -73,12 +73,14 @@ Tudo com foco em **simplicidade, segurança e inovação**, porque ninguém mere
 ## **Roadmap**
 | Versão | Status | Destaques |
 |--------|--------|-----------|
-| **v1.0 - Base** | ✅ Concluída | Gerador de senhas + arquitetura MVVM |
-| **v1.1 - UX Upgrade** | 🔄 Em breve | Melhorias na UI/UX e exportação simples |
-| **v1.5 - Cofre Local** | 📅 Planejada | Cofre local com Hive e login seguro |
-| **v2.0 - Cloud Sync** | 📅 Planejada | Backup na nuvem e sincronização multi-dispositivo |
-| **v2.5 - Guardara Pro** | 📅 Planejada | Criptografia avançada, cofres independentes e suporte empresarial |
-| **v3.0 - Guardara Ecosystem** | 📅 Futuro | Integração com APIs externas, automação e análises avançadas |
+| **v1.0 – Base** | ✅ Concluída | Gerador de senhas, arquitetura **MVVM**, UI inicial |
+| **v1.1 – UX Upgrade** | 🔄 Em desenvolvimento | Melhorias de **UI/UX**, temas claros/escuros e ajustes de usabilidade |
+| **v1.2 – Preferências do Gerador** | ✅ Concluída | **Persistência no Hive** para salvar configurações do gerador |
+| **v1.5 – Cofre Local** | 🔄 Em desenvolvimento | **Cofre de senhas local** com Hive, autenticação por PIN/biometria |
+| **v2.0 – Cloud Sync** | 📅 Planejada | Backup na nuvem (Firebase) e sincronização multi-dispositivo |
+| **v2.2 – Segurança Avançada** | 📅 Planejada | Criptografia AES + gerenciamento de chaves, alertas de vulnerabilidade |
+| **v2.5 – Guardara Pro** | 📅 Planejada | Múltiplos cofres, permissões granulares, suporte a equipes |
+| **v3.0 – Guardara Ecosystem** | 📅 Futuro | Integrações com APIs externas (ex.: 2FA, HaveIBeenPwned), automação e dashboards de segurança |
 
 ---
 
